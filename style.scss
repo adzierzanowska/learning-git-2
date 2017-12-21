@@ -1,26 +1,26 @@
 .container {
-	width: 80%;
+	width: 20%;
 	max-width: 1200px;
 	margin: auto;
 	padding: 10px;
-}
-.container h1 {
+	background: lightblue;
+	text-align: justify;
+
+	 h1 {
 		font-size: 30px;
-		color: black;
-		text-align: center;
+		color: black; 
 		font-weight: bold;
 	}
 
-	h2 {
-		text-align: center;
+	h2 { 
 		font-size: 25px;
-		color: #667799;
+		color: lightblue;
 		margin: 15px;
 	}
 
 	p {
-		text-align: center;
 		font-size: 15px;
-		margin: 15px auto ;
+		margin: 10px auto ;
 		padding: 5px;
-	} 
+	}
+} 
